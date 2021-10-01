@@ -1,5 +1,4 @@
 -- Aluno: Breno de Jesus Silva
--- Matrícula:	202100060702
 
 type CPF = Integer
 type Nome = String
